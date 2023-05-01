@@ -12,13 +12,17 @@ Version Control: Git
 📈 Statistics
 Here are some statistics about my Github profile:
 
-[![Nicolas Foss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfoss&show_icons=true&theme=radical)](https://github.com/nicolasfoss)
+[![Nicolas Foss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfoss&show_icons=true&theme=dark)](https://github.com/nicolasfoss)
 
 📫 Get in Touch
 If you would like to collaborate or simply say hi, please feel free to reach out to me via email at ndfoss@gmail.com.
 
 🎨 Portfolio
-Check out some of my work on my Github profile: https://github.com/nicolasfoss/resume_projects or https://github.com/nicolasfoss/overdose_deaths
+Check out some of my work on my Github profile: 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=resume_projects&theme=dark)](https://github.com/nicolasfoss)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=overdose_deaths&theme=dark)](https://github.com/nicolasfoss)
 
 Thank you for visiting my Github profile. I look forward to connecting with you!
 
