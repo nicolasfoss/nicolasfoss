@@ -18,7 +18,7 @@ Here are some statistics about my Github profile:
 If you would like to collaborate or simply say hi, please feel free to reach out to me via email at ndfoss@gmail.com.
 
 🎨 Portfolio
-Check out some of my work on my Github profile: https://github.com/nicolasfoss/nicolasfoss
+Check out some of my work on my Github profile: https://github.com/nicolasfoss/resume_projects or https://github.com/nicolasfoss/overdose_deaths
 
 Thank you for visiting my Github profile. I look forward to connecting with you!
 
