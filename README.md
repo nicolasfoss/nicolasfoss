@@ -2,11 +2,15 @@
 Welcome to my Github profile! I am passionate about R programming and currently focused on learning machine learning, random forests, cluster analysis using R. I am interested in collaborating on behavioral healthcare research, regression models, outcomes research, evidence-based practices in behavioral healthcare.
 
 🧰 Tools and Technologies
+
 I use the following tools and technologies for my projects:
 
 Programming Languages: R, Excel analytics
+
 Machine Learning: Random Forests, Cluster Analysis, Regression Models
+
 Data Visualization: ggplot2, Excel data analysis package
+
 Version Control: Git
 
 📈 Statistics
