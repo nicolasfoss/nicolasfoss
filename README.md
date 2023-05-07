@@ -27,8 +27,6 @@ Check out some of my work on my Github profile:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=overdose_deaths&theme=dark)](https://github.com/nicolasfoss/overdose_deaths)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=vt_org&theme=dark)](https://github.com/nicolasfoss/vt_org)
-
 Thank you for visiting my Github profile. I look forward to connecting with you!
 
 <!---
