@@ -29,6 +29,8 @@ Check out some of my work on my Github profile:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=vt_org&theme=vision-friendly-dark)](https://github.com/nicolasfoss/vt_org)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=church_attendance&theme=vision-friendly-dark)](https://github.com/nicolasfoss/church_attendance)
+
 Thank you for visiting my Github profile. I look forward to connecting with you!
 
 <!---
