@@ -16,7 +16,7 @@ Here are some statistics about my Github profile:
 [![Nicolas Foss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfoss&show_icons=true&theme=vision-friendly-dark)](https://github.com/nicolasfoss)
 
 📫 Get in Touch
-If you would like to collaborate or simply say hi, please feel free to reach out to me via email at ndfoss@gmail.com.
+If you would like to collaborate or simply say hi, please feel free to reach out to me via email at ndfoss at gmail.com.
 
 🎨 Portfolio
 Check out some of my work on my Github profile: 
