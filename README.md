@@ -10,11 +10,6 @@ Machine Learning: Random Forests, Cluster Analysis, Regression Models
 
 Data Visualization: ggplot2, Excel data analysis package
 
-📈 Statistics
-Here are some statistics about my Github profile:
-
-[![Nicolas Foss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasfoss&show_icons=true&theme=vision-friendly-dark)](https://github.com/nicolasfoss)
-
 📫 Get in Touch
 If you would like to collaborate or simply say hi, please feel free to reach out to me via email at ndfoss at gmail.com.
 
