@@ -6,7 +6,7 @@ I use the following tools and technologies for my projects:
 
 Programming Languages: R, Excel analytics
 
-Machine Learning: Random Forests, Cluster Analysis, Regression Models
+Machine Learning: random forests, K-means and hierarchical cluster analysis, regression models
 
 Data Visualization: ggplot2, Excel data analysis package
 
