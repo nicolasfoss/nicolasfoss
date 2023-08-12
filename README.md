@@ -1,4 +1,4 @@
-👋 Hi, I'm Nicolas Foss, and welcome to my GitHub profile! I am passionate about R programming and am currently focused on developing machine learning models (logistic / linear regression, random forests), and cluster analysis using R. I am interested in collaborating on behavioral healthcare research, regression models, outcomes research, and evidence-based practices in behavioral healthcare.
+👋 Hi, I'm Nicolas Foss, and welcome to my GitHub profile! I am passionate about R programming and am currently focused on developing machine learning models (logistic / linear regression, random forests), and cluster analysis using R. I am interested in collaborating on behavioral health and primary healthcare research, regression models, and outcomes research.
 
 🧰 Tools and Technologies
 
