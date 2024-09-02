@@ -4,7 +4,7 @@
 
 I use the following tools and technologies for my projects:
 
-Programming Languages: R, julia, 
+Programming Languages: R, julia
 
 BI Software: Excel, Tableau, Microsoft Power BI
 
