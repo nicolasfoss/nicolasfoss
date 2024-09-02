@@ -4,9 +4,11 @@
 
 I use the following tools and technologies for my projects:
 
-Programming Languages: R, Excel analytics
+Programming Languages: R, julia, 
 
-Machine Learning: random forests, K-means and hierarchical cluster analysis, regression models
+BI Software: Excel, Tableau, Microsoft Power BI
+
+Machine Learning: random forests, ranger, linear / logistic regression, K-means and hierarchical cluster analysis, tidymodels
 
 Data Visualization: ggplot2, Excel data analysis package
 
