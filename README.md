@@ -18,7 +18,7 @@ If you would like to collaborate or simply say hi, please feel free to reach out
 🎨 Portfolio
 Check out some of my work on my Github profile: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=julia_lang&theme=vision-friendly-dark)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=julia_lang&theme=vision-friendly-dark)](https://github.com/nicolasfoss/julia_lang)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=resume_projects&theme=vision-friendly-dark)](https://github.com/nicolasfoss/resume_projects)
 
