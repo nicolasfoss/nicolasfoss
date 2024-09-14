@@ -8,7 +8,7 @@ Programming Languages: R, julia
 
 BI Software: Excel, Tableau, Microsoft Power BI
 
-Machine Learning: random forests, ranger, linear / logistic regression, K-means and hierarchical cluster analysis, tidymodels
+Machine Learning: random forests, oblique random survival forests, k-nearest neighbors,  ranger, linear / logistic regression, K-means and hierarchical cluster analysis, tidymodels
 
 Data Visualization: ggplot2, Excel data analysis package
 
