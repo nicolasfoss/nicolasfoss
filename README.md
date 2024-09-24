@@ -18,6 +18,8 @@ If you would like to collaborate or simply say hi, please feel free to reach out
 🎨 Portfolio
 Check out some of my work on my Github profile: 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=tidy_tuesday&theme=vision-friendly-dark)](https://github.com/nicolasfoss/tidy_tuesday)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=julia_lang&theme=vision-friendly-dark)](https://github.com/nicolasfoss/julia_lang)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=resume_projects&theme=vision-friendly-dark)](https://github.com/nicolasfoss/resume_projects)
@@ -25,8 +27,6 @@ Check out some of my work on my Github profile:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=overdose_deaths&theme=vision-friendly-dark)](https://github.com/nicolasfoss/overdose_deaths)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=vt_org&theme=vision-friendly-dark)](https://github.com/nicolasfoss/vt_org)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=church_attendance&theme=vision-friendly-dark)](https://github.com/nicolasfoss/church_attendance)
 
 Thank you for visiting my Github profile. I look forward to connecting with you!
 
