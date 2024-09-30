@@ -18,6 +18,8 @@ If you would like to collaborate or simply say hi, please feel free to reach out
 🎨 Portfolio
 Check out some of my work on my Github profile: 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=traumaR&theme=vision-friendly-dark)](https://github.com/nicolasfoss/traumaR)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=tidy_tuesday&theme=vision-friendly-dark)](https://github.com/nicolasfoss/tidy_tuesday)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nicolasfoss&repo=julia_lang&theme=vision-friendly-dark)](https://github.com/nicolasfoss/julia_lang)
